@@ -1,6 +1,6 @@
 <?php
 /**
- * User: Usmon
+ * Author: Usmon
  * Date: 23.12.2018
  * Time: 19:55
  */
