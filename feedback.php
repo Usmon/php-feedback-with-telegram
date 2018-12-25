@@ -7,7 +7,7 @@
 
 //Telegram API params
 $telegram_bot_token = 'botHERE_TOKEN_KEY'; //Need token with word "bot"
-$telegram_user_id = 'HERE_USER_ID'; //Get our user name and set here 
+$telegram_user_id = 'HERE_USER_ID'; //Get your user name and set here 
  
 //Get IP address
 function getIp()
